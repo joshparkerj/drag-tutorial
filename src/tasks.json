@@ -1,0 +1,124 @@
+{
+  "tasks": [
+    {
+      "name": "Reduce",
+      "category": "conscientiousness",
+      "bgcolor": "yellow"
+    },
+    {
+      "name": "Reuse",
+      "category": "agreeableness",
+      "bgcolor": "pink"
+    },
+    {
+      "name": "Recycle",
+      "category": "openness to experience",
+      "bgcolor": "skyblue"
+    },
+    {
+      "name": "Fear",
+      "category": "neuroticism",
+      "bgcolor": "magenta"
+    },
+    {
+      "name": "Hate",
+      "category": "extroversion",
+      "bgcolor": "chartreuse"
+    },
+    {
+      "name": "Suffer",
+      "category": "openness to experience",
+      "bgcolor": "springgreen"
+    },
+    {
+      "name": "Avenge",
+      "category": "conscientiousness",
+      "bgcolor": "yellow"
+    },
+    {
+      "name": "Adjudicate",
+      "category": "agreeableness",
+      "bgcolor": "pink"
+    },
+    {
+      "name": "Capsize",
+      "category": "openness to experience",
+      "bgcolor": "skyblue"
+    },
+    {
+      "name": "Deliver",
+      "category": "neuroticism",
+      "bgcolor": "magenta"
+    },
+    {
+      "name": "Sleep",
+      "category": "extroversion",
+      "bgcolor": "chartreuse"
+    },
+    {
+      "name": "Eat",
+      "category": "openness to experience",
+      "bgcolor": "springgreen"
+    },
+    {
+      "name": "Program",
+      "category": "conscientiousness",
+      "bgcolor": "yellow"
+    },
+    {
+      "name": "Commit",
+      "category": "agreeableness",
+      "bgcolor": "pink"
+    },
+    {
+      "name": "Donate",
+      "category": "openness to experience",
+      "bgcolor": "skyblue"
+    },
+    {
+      "name": "Love",
+      "category": "neuroticism",
+      "bgcolor": "magenta"
+    },
+    {
+      "name": "Pray",
+      "category": "extroversion",
+      "bgcolor": "chartreuse"
+    },
+    {
+      "name": "Use Recreational Substances",
+      "category": "openness to experience",
+      "bgcolor": "springgreen"
+    },
+    {
+      "name": "Delight",
+      "category": "conscientiousness",
+      "bgcolor": "yellow"
+    },
+    {
+      "name": "Amaze",
+      "category": "agreeableness",
+      "bgcolor": "gray"
+    },
+    {
+      "name": "Gape",
+      "category": "openness to experience",
+      "bgcolor": "silver"
+    },
+    {
+      "name": "Fight",
+      "category": "neuroticism",
+      "bgcolor": "magenta"
+    },
+    {
+      "name": "Flee",
+      "category": "extroversion",
+      "bgcolor": "chartreuse"
+    },
+    {
+      "name": "Nurture",
+      "category": "openness to experience",
+      "bgcolor": "springgreen"
+    }
+  ]
+}
